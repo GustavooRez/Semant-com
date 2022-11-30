@@ -1,0 +1,26 @@
+.row{
+    margin: 0!important;
+}
+.display-center{
+    text-align: center;
+}
+.display-flex{
+    display: flex!important;
+    justify-content: space-between!important;
+    align-items: center!important;
+}
+.display-flex-center{
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+.display-flex-left{
+    display: flex!important;
+    justify-content: left!important;
+    align-items: center!important;
+}
+.display-flex-right{
+    display: flex!important;
+    justify-content: right!important;
+    align-items: center!important;
+}

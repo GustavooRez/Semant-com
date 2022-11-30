@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            
+            "name": "Zoológico",
+            "phrase": "Fase 1 - Zoológico",
+            "question": "Qual é o animal?",
+            "itens": [
+                {
+                    "name": "Pato",
+                    "image": "../images/animals/duck.png"
+                }, 
+                {
+                    "name": "Cavalo",
+                    "image": "../images/animals/cavalo.png"
+                },
+                {
+                    "name": "Rato",
+                    "image": "../images/animals/rato.png"
+                }, 
+                {
+                    "name": "Cachorro",
+                    "image": "../images/animals/cachorro.png"
+                },
+                {
+                    "name": "Gato",
+                    "image": "../images/animals/gato.png"
+                }, 
+                {
+                    "name": "Girafa",
+                    "image": "../images/animals/girafa.png"
+                }, 
+                {
+                    "name": "Urso",
+                    "image": "../images/animals/urso.png"
+                }, 
+                {
+                    "name": "Leão",
+                    "image": "../images/animals/leao.png"
+                }, 
+                {
+                    "name": "Vaca",
+                    "image": "../images/animals/vaca.png"
+                }, 
+                {
+                    "name": "Zebra",
+                    "image": "../images/animals/zebra.png"
+                }
+            ]
+        },
+        {
+            
+            "name": "Feira",
+            "phrase": "Fase 2 - Feira",
+            "question": "Qual é a fruta?",
+            "itens": [
+                {
+                    "name": "Abacaxi",
+                    "image": "../images/frutas/abacaxi.png"
+                }, 
+                {
+                    "name": "Banana",
+                    "image": "../images/frutas/banana.png"
+                },
+                {
+                    "name": "Goiaba",
+                    "image": "../images/frutas/goiaba.png"
+                }, 
+                {
+                    "name": "Laranja",
+                    "image": "../images/frutas/laranja.png"
+                },
+                {
+                    "name": "Maça",
+                    "image": "../images/frutas/maca.png"
+                }, 
+                {
+                    "name": "Melancia",
+                    "image": "../images/frutas/melancia.png"
+                }, 
+                {
+                    "name": "Pessêgo",
+                    "image": "../images/frutas/pessego.png"
+                }, 
+                {
+                    "name": "Uva",
+                    "image": "../images/frutas/uva.png"
+                }
+            ] 
+        }
+    ]
+}

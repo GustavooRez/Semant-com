@@ -1,0 +1,9 @@
+.loading-modal .modal-content{
+    background-color: transparent!important;
+    border: transparent!important;
+}
+.loading-modal .loading{
+    border-width: 1rem;
+    --bs-spinner-width: 10rem;
+    --bs-spinner-height: 10rem;
+}

@@ -1,0 +1,23 @@
+#background-init {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url('./images/background-init.png');
+    background-size: cover;
+}
+.start{
+    padding-top: 5rem;
+}
+.start h1{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.button-start svg{
+    margin-top: 5rem;
+    cursor: pointer;
+}
+.button-start svg:hover{
+    margin-top: 4rem;
+    height: 250px;
+    width: 250px;
+}

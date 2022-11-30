@@ -1,0 +1,17 @@
+.home-card {
+  background-color: white;
+  height: 10rem;
+  padding: 5%;
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+.button-start-home svg{
+    margin-top: 1%;
+    cursor: pointer;
+}
+.button-start-home svg:hover{
+    margin-top: 2%;
+    height: 90px;
+    width: 90px;
+}
