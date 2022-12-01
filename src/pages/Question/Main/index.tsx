@@ -114,13 +114,14 @@ const QuestionMain = () => {
                                 >
                                     Resetar fase
                                 </Button>
+                                {world !== "1" ?
                                 <Button
                                     variant="primary"
                                     onClick={() => nextWorld()}
                                     className="button-complete"
                                 >
                                     Próxima fase
-                                </Button>
+                                </Button> : <></>}
                             </div>
                         </Container>  </>}
             </div> : <></>
