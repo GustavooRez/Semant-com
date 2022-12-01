@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React from "react";
 import { useNavigate } from "react-router-dom";
 import { IoPlayCircleOutline } from "react-icons/io5";
 import "./styles.css"

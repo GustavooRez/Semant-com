@@ -1,5 +1,4 @@
-import { Routes, Route, Navigate } from "react-router-dom";
-import { useContext } from "react";
+import { Routes, Route } from "react-router-dom";
 import Pagina404 from "./pages/Page404";
 import Home from "./pages/Home";
 import Start from "./pages/Init";

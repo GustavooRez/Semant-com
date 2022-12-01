@@ -12,6 +12,7 @@
   "rules" : {
       "no-useless-escape" : "off",
       "eqeqeq" : "error",
-      "@typescript-eslint/no-this-alias": 0
+      "@typescript-eslint/no-this-alias": 0,
+      "@typescript-eslint/no-explicit-any": ["off"]
   }
 }

@@ -47,8 +47,7 @@
     "start": "react-app-rewired start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "lint": "eslint . --ext .tsx"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
